@@ -1,0 +1,49 @@
+DNA Sequence Analyzer
+
+Submitted by: Sanskriti kumari
+Course: Introduction to problem solving and programming [CSE1021]
+Date: 26 mar2026
+
+INTRODUCTION
+DNA (Deoxyribonucleic Acid) is the genetic material present in living organisms. It contains important biological information that is essential for growth, development, and functioning. Analysing DNA sequences is a fundamental part of bioinformatics.
+This project focuses on building a simple tool using Python to perform basic DNA sequence analysis. It helps in understanding how programming can be applied in biological data processing.
+Objective
+The objective of this project is to develop a Python-based application that can analyse DNA sequences by validating input, counting nucleotides, calculating GC content, and generating reverse complement.
+ Methodology
+The project follows a simple step-by-step approach:
+1. The user inputs a DNA sequence.
+2. The program validates whether the sequence contains valid nucleotides (A, T, G, C).
+3. If valid, the program counts each nucleotide.
+4. It calculates GC content using a formula.
+5. It generates the reverse complement of the sequence.
+6. The results are displayed to the user.
+ 5. Tools and Technologies Used
+ Python programming language
+- Basic concepts: functions, loops, conditional statements
+ Features of the Project
+- DNA sequence validation
+- Nucleotide counting (A, T, G, C)
+- GC content calculation
+- Reverse complement generation
+- Simple and user-friendly execution 
+- Sample Input and Output
+
+Input:
+ATGCGTA
+
+Output:
+Valid DNA sequence
+Nucleotide Count: A=2, T=2, G=2, C=1
+GC Content: 42.86%
+Reverse Complement: TACGCAT
+Result
+The project successfully analyses DNA sequences and provides accurate results for nucleotide count, GC content, and reverse complement. It demonstrates the application of Python in basic bioinformatics tasks. 
+ Conclusion
+
+This project helped in understanding how programming can be used in biological data analysis. It improved my knowledge of Python as well as basic bioinformatics concepts.
+
+ Future Scope (IMPORTANT)
+- Development of a graphical user interface (GUI)
+- Support for file-based DNA input
+- Integration of advanced bioinformatics tools
+- Expansion to protein sequence analysis
