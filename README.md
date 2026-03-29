@@ -17,7 +17,7 @@ The objective of this project is to create a simple tool that can analyze DNA se
 
 # How to Run
 1. Install Python on your system
-2. Download the file `dna_analyzer.py`
+2. Open the terminal and  navigate to the project folder:cd DNA-sequence-analyser
 3. Run the program using:
    python dna_analyzer.py
 
