@@ -1,4 +1,4 @@
- # DNA Sequence Analyzer
+ # DNA Sequence Analyser
 
 # Description
 This project is a Python-based tool developed to analyze DNA sequences. It helps in understanding basic bioinformatics concepts by performing simple analysis on DNA data.
